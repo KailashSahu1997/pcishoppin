@@ -1,0 +1,1 @@
+[16-Feb-2022 06:54:37 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/aprpatdi/public_html/eziigrow/application/views/reports.php on line 35
